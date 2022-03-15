@@ -1,0 +1,3 @@
+displayName = Geck's Various QoL Features
+author = geckronome
+version = 0.1

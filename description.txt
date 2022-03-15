@@ -1,0 +1,13 @@
+Geck's Various QoL Features is a mod that adds various recipes to help make your playthrough easier.
+
+I realize that there are 800 of these mods already, but I try to make these recipes an alternative to getting them, instead of being a complete replacement.
+
+Some recipes include:
+- Recipes for all unique items found in loot chests
+- Recipes for extremely rare mob drops
+- Recipes for rare fishing drops
+- Balanced Ore and Bar Conversion
+======
+Changelog
+======
+v0.1 - Initial upload, added a lot of recipes.
